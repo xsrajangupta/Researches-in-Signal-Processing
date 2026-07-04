@@ -1,0 +1,7 @@
+*.asv
+*.fig
+*.slxc
+*.mex*
+*.mat
+*.autosave
+*.log
